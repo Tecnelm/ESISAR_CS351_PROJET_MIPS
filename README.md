@@ -31,7 +31,7 @@ il y a deux modes d'éxécutions:
 pour le mode non-interactif il est possible de renseigner l'argument **-pas** qui permet d'éxécuter l'émulateur en mode pas à pas
 
 
-## Authors
+## Auteurs
 
 * **Garrigues Clément** 
 * **Moyart Alexis** 
